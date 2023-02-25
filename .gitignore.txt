@@ -1,1 +1,1 @@
-gizli/
+hta/
